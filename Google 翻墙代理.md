@@ -15,7 +15,7 @@ http://gg1.firstguo.com/ （有弹窗广告）
 https://zh.bywiki.com （维基百科）
 https://gmirror.arukascloud.io/ （无广告，体验良好）
 https://g.caisan.ml （无广告，体验良好）
-谷歌学术
+#谷歌学术
 https://xueshu.glgoo.org/ 
 https://scholar.aiguso.ml/
 https://g.dieproxy.com/scholar/
@@ -23,7 +23,7 @@ https://xue.glgoo.com
 http://www.tmeishi.com/xs/
 https://www.scholar.live/
 https://www.xichuan.pub/scholar
-变种网页：
+#变种网页：
 http://www.tmeishi.com/ （无广告，搜索体验良好）
 http://www.ibying.com/ （无广告，搜索体验良好）
 http://search.twcc.com/  （无广告，体验良好）
