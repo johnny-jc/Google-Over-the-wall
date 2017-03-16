@@ -38,4 +38,4 @@ http://www.aifago.com/ （无广告，搜索体验良好）<br>
 https://www.dcrss.net （无广告，搜索体验良好）<br>
 https://www.dcrss.com/ （google学术和网页）<br>
 http://www.lstsrw.org/ （有广告，体验一般）<br>
-http://guge.firstguo.com/（有广告，体验一般）<br>
+http://guge.firstguo.com/ (有广告，体验一般) <br>
